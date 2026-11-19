@@ -1,4 +1,4 @@
-# Qveto-Java-Team-Project-02: Online Examination System (Project 3)
+# Qveto-Java-Team-Project-02
 
 [![Java Version](https://img.shields.io/badge/Java-17%20%2F%2021-orange.svg)](https://adoptium.net/)
 [![Build Tool](https://img.shields.io/badge/Build-Maven%20%2F%20Batch-blue.svg)](https://maven.apache.org/)
